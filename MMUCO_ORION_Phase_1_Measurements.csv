@@ -1,0 +1,9 @@
+Ref,Element / area,Visible measurement,Calculated area,Confidence / action
+A1,Agricultural support building,40 sq m gross external floor area,40 sq m,High - matches Planning Portal entry
+A2,Glasshouse / greenhouse,30 sq m gross external floor area,30 sq m,High - matches Planning Portal entry
+A3,Conservatory / covered growing or welfare space,5 m x 4 m,20 sq m,Medium/high - visible on floor plan; verify on site
+A4,Front French double doors,1680 mm opening width,N/A,Medium - visible on sketch; confirm manufacturer/opening size
+A5,Large square/plot shown top/right,Possibly 10 m x 10 m,Possibly 100 sq m,Low - handwriting is faint; do not submit without confirming
+A6,Small internal hall / opening,Possibly 1.0 m to 1.8 m,N/A,Low - not readable enough for application use
+A7,Small WC / internal service rooms,Dimensions not readable,N/A,Low - redraw with clear lengths and widths
+A8,ORION battlefield / linked octagonal layout,"Compass orientation shown: North, South, East, West",N/A,Concept layout only - add scale and boundary dimensions
